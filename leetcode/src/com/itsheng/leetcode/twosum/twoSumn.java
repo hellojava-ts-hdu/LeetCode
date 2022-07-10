@@ -1,10 +1,8 @@
 package com.itsheng.leetcode.twosum;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 /**
  * @Author tiansheng
